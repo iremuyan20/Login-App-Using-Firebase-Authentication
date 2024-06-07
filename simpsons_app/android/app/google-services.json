@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "19674861816",
+    "project_id": "simpsonsapp-8ba59",
+    "storage_bucket": "simpsonsapp-8ba59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19674861816:android:085d1ea9290220f4166b0d",
+        "android_client_info": {
+          "package_name": "com.example.simpsonsapp.simpsons_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXLi2yinGtQcVe6j9j_BgRxlsa59Ano6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
